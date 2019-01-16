@@ -1,0 +1,12 @@
+C:\Users\ПопченкоМ\source\repos\MedicalSystem1\MedicalSystem1\bin\Debug\MedicalSystem1.exe.config
+C:\Users\ПопченкоМ\source\repos\MedicalSystem1\MedicalSystem1\bin\Debug\MedicalSystem1.exe
+C:\Users\ПопченкоМ\source\repos\MedicalSystem1\MedicalSystem1\bin\Debug\MedicalSystem1.pdb
+C:\Users\ПопченкоМ\source\repos\MedicalSystem1\MedicalSystem1\bin\Debug\EntityFramework.dll
+C:\Users\ПопченкоМ\source\repos\MedicalSystem1\MedicalSystem1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ПопченкоМ\source\repos\MedicalSystem1\MedicalSystem1\bin\Debug\EntityFramework.xml
+C:\Users\ПопченкоМ\source\repos\MedicalSystem1\MedicalSystem1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ПопченкоМ\source\repos\MedicalSystem1\MedicalSystem1\obj\Debug\MedicalSystem1.csprojAssemblyReference.cache
+C:\Users\ПопченкоМ\source\repos\MedicalSystem1\MedicalSystem1\obj\Debug\MedicalSystem1.csproj.CoreCompileInputs.cache
+C:\Users\ПопченкоМ\source\repos\MedicalSystem1\MedicalSystem1\obj\Debug\MedicalSystem1.csproj.CopyComplete
+C:\Users\ПопченкоМ\source\repos\MedicalSystem1\MedicalSystem1\obj\Debug\MedicalSystem1.exe
+C:\Users\ПопченкоМ\source\repos\MedicalSystem1\MedicalSystem1\obj\Debug\MedicalSystem1.pdb
